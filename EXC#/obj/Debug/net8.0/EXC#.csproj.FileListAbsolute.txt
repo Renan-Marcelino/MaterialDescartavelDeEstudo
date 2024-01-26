@@ -1,0 +1,14 @@
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\EXC#\obj\Debug\net8.0\EXC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\EXC#\obj\Debug\net8.0\EXC#.AssemblyInfoInputs.cache
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\EXC#\obj\Debug\net8.0\EXC#.AssemblyInfo.cs
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\EXC#\obj\Debug\net8.0\EXC#.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\EXC#\bin\Debug\net8.0\EXC#.exe
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\EXC#\bin\Debug\net8.0\EXC#.deps.json
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\EXC#\bin\Debug\net8.0\EXC#.runtimeconfig.json
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\EXC#\bin\Debug\net8.0\EXC#.dll
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\EXC#\bin\Debug\net8.0\EXC#.pdb
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\EXC#\obj\Debug\net8.0\EXC#.dll
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\EXC#\obj\Debug\net8.0\refint\EXC#.dll
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\EXC#\obj\Debug\net8.0\EXC#.pdb
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\EXC#\obj\Debug\net8.0\EXC#.genruntimeconfig.cache
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\EXC#\obj\Debug\net8.0\ref\EXC#.dll

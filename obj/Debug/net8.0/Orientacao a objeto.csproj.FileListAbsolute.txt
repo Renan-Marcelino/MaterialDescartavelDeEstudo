@@ -1,0 +1,14 @@
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\bin\Debug\net8.0\Orientacao a objeto.exe
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\bin\Debug\net8.0\Orientacao a objeto.deps.json
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\bin\Debug\net8.0\Orientacao a objeto.runtimeconfig.json
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\bin\Debug\net8.0\Orientacao a objeto.dll
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\bin\Debug\net8.0\Orientacao a objeto.pdb
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\obj\Debug\net8.0\Orientacao a objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\obj\Debug\net8.0\Orientacao a objeto.AssemblyInfoInputs.cache
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\obj\Debug\net8.0\Orientacao a objeto.AssemblyInfo.cs
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\obj\Debug\net8.0\Orientacao a objeto.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\obj\Debug\net8.0\Orientacao a objeto.dll
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\obj\Debug\net8.0\refint\Orientacao a objeto.dll
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\obj\Debug\net8.0\Orientacao a objeto.pdb
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\obj\Debug\net8.0\Orientacao a objeto.genruntimeconfig.cache
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\obj\Debug\net8.0\ref\Orientacao a objeto.dll

@@ -1,0 +1,14 @@
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDaTech\obj\Debug\net8.0\TesteDaTech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDaTech\obj\Debug\net8.0\TesteDaTech.AssemblyInfoInputs.cache
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDaTech\obj\Debug\net8.0\TesteDaTech.AssemblyInfo.cs
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDaTech\obj\Debug\net8.0\TesteDaTech.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDaTech\bin\Debug\net8.0\TesteDaTech.exe
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDaTech\bin\Debug\net8.0\TesteDaTech.deps.json
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDaTech\bin\Debug\net8.0\TesteDaTech.runtimeconfig.json
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDaTech\bin\Debug\net8.0\TesteDaTech.dll
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDaTech\bin\Debug\net8.0\TesteDaTech.pdb
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDaTech\obj\Debug\net8.0\TesteDaTech.dll
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDaTech\obj\Debug\net8.0\refint\TesteDaTech.dll
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDaTech\obj\Debug\net8.0\TesteDaTech.pdb
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDaTech\obj\Debug\net8.0\TesteDaTech.genruntimeconfig.cache
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDaTech\obj\Debug\net8.0\ref\TesteDaTech.dll
