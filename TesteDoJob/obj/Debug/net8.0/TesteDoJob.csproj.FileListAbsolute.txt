@@ -1,0 +1,14 @@
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDoJob\bin\Debug\net8.0\TesteDoJob.exe
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDoJob\bin\Debug\net8.0\TesteDoJob.deps.json
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDoJob\bin\Debug\net8.0\TesteDoJob.runtimeconfig.json
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDoJob\bin\Debug\net8.0\TesteDoJob.dll
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDoJob\bin\Debug\net8.0\TesteDoJob.pdb
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDoJob\obj\Debug\net8.0\TesteDoJob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDoJob\obj\Debug\net8.0\TesteDoJob.AssemblyInfoInputs.cache
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDoJob\obj\Debug\net8.0\TesteDoJob.AssemblyInfo.cs
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDoJob\obj\Debug\net8.0\TesteDoJob.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDoJob\obj\Debug\net8.0\TesteDoJob.dll
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDoJob\obj\Debug\net8.0\refint\TesteDoJob.dll
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDoJob\obj\Debug\net8.0\TesteDoJob.pdb
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDoJob\obj\Debug\net8.0\TesteDoJob.genruntimeconfig.cache
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\TesteDoJob\obj\Debug\net8.0\ref\TesteDoJob.dll
