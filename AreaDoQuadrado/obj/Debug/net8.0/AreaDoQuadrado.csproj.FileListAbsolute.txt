@@ -1,0 +1,14 @@
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\AreaDoQuadrado\obj\Debug\net8.0\AreaDoQuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\AreaDoQuadrado\obj\Debug\net8.0\AreaDoQuadrado.AssemblyInfoInputs.cache
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\AreaDoQuadrado\obj\Debug\net8.0\AreaDoQuadrado.AssemblyInfo.cs
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\AreaDoQuadrado\obj\Debug\net8.0\AreaDoQuadrado.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\AreaDoQuadrado\bin\Debug\net8.0\AreaDoQuadrado.exe
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\AreaDoQuadrado\bin\Debug\net8.0\AreaDoQuadrado.deps.json
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\AreaDoQuadrado\bin\Debug\net8.0\AreaDoQuadrado.runtimeconfig.json
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\AreaDoQuadrado\bin\Debug\net8.0\AreaDoQuadrado.dll
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\AreaDoQuadrado\bin\Debug\net8.0\AreaDoQuadrado.pdb
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\AreaDoQuadrado\obj\Debug\net8.0\AreaDoQuadrado.dll
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\AreaDoQuadrado\obj\Debug\net8.0\refint\AreaDoQuadrado.dll
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\AreaDoQuadrado\obj\Debug\net8.0\AreaDoQuadrado.pdb
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\AreaDoQuadrado\obj\Debug\net8.0\AreaDoQuadrado.genruntimeconfig.cache
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\AreaDoQuadrado\obj\Debug\net8.0\ref\AreaDoQuadrado.dll

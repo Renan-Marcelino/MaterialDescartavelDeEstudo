@@ -1,0 +1,4 @@
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\05Acesso\obj\Debug\net8.0\05Acesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\05Acesso\obj\Debug\net8.0\05Acesso.AssemblyInfoInputs.cache
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\05Acesso\obj\Debug\net8.0\05Acesso.AssemblyInfo.cs
+C:\Users\usuario\OneDrive\Aleatorio\Área de Trabalho\Orientacao a objeto\05Acesso\obj\Debug\net8.0\05Acesso.csproj.CoreCompileInputs.cache
